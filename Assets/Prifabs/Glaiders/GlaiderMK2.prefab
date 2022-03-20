@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2188227293118172319
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303628, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303629, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: m_Name
+      value: GlaiderMK2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303630, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: MassGlaider
+      value: 9000
+      objectReference: {fileID: 0}
+    - target: {fileID: 1054477110810303630, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: OptimalMass
+      value: 7000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3104898903803633265, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: ForceTurnX
+      value: 2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3104898903803633265, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: ForceRightleft
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 3104898903803633265, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: TestOptimalMass
+      value: 7000
+      objectReference: {fileID: 0}
+    - target: {fileID: 3104898903803633265, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: ForceForfardBack
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 3104898903803633265, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: SpeedRotationGlaiderY
+      value: 80
+      objectReference: {fileID: 0}
+    - target: {fileID: 3104898903803633265, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: ForceStopingTurnGlaider
+      value: 700
+      objectReference: {fileID: 0}
+    - target: {fileID: 7090750229903262869, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: moduleHP
+      value: 900
+      objectReference: {fileID: 0}
+    - target: {fileID: 7090750230069629370, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: moduleHP
+      value: 1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 7090750230168428414, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: moduleHP
+      value: 400
+      objectReference: {fileID: 0}
+    - target: {fileID: 7090750230938029086, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: moduleHP
+      value: 700
+      objectReference: {fileID: 0}
+    - target: {fileID: 7090750231169390971, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
+      propertyPath: HPglaider
+      value: 8000
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7eb3d7e5bf30dfa49a800e7cf2809a66, type: 3}
